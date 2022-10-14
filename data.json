@@ -1,0 +1,481 @@
+{
+    "Алтайский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2208163",
+        "districts": {
+            "Алейский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208192",
+                "selsovet": {
+                    "Боровской сельсовет": {
+                        "url": "https://www.reformagkh.ru/myhouse?tid=2208240",
+                        "addresses": {
+                            "с. Боровское, ул. Новая, д. 7": {
+                                "url": "https://www.reformagkh.ru/myhouse/profile/view/6706291/"
+                            }
+                        }
+                    },
+                    "Заветильичёвский сельсовет": {
+                        "url": "https://www.reformagkh.ru/myhouse?tid=2208244",
+                        "addresses": {
+                            "п. Заветы Ильича, ул. Школьная, д. 10": {
+                                "url": "https://www.reformagkh.ru/myhouse/profile/view/6705741/"
+                            }
+                        }
+                    }
+                }
+            },
+            "Алтайский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208193"
+            },
+            "Баевский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208194"
+            },
+            "Бийский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208195"
+            },
+            "Благовещенский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208186"
+            },
+            "Бурлинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208187"
+            },
+            "Быстроистокский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208188"
+            },
+            "Волчихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208189"
+            },
+            "город Алейск": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208172"
+            },
+            "город Барнаул": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208171"
+            },
+            "город Белокуриха": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208173"
+            },
+            "город Бийск": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208174"
+            },
+            "город Заринск": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208175"
+            },
+            "город Новоалтайск": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208178"
+            },
+            "город Рубцовск": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208179"
+            },
+            "город Славгород": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208180"
+            },
+            "город Яровое": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208181"
+            },
+            "Егорьевский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208165"
+            },
+            "Ельцовский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208166"
+            },
+            "Завьяловский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208167"
+            },
+            "Залесовский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208168"
+            },
+            "Заринский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208169"
+            },
+            "Змеиногорский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208183"
+            },
+            "Зональный муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208223"
+            },
+            "Калманский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208184"
+            },
+            "Каменский район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208185"
+            },
+            "Ключевский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208226"
+            },
+            "Косихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208227"
+            },
+            "Красногорский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208228"
+            },
+            "Краснощёковский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208210"
+            },
+            "Крутихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208211"
+            },
+            "Кулундинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208212"
+            },
+            "Курьинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208217"
+            },
+            "Кытмановский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208218"
+            },
+            "Локтевский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208219"
+            },
+            "Мамонтовский район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208221"
+            },
+            "Михайловский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208220"
+            },
+            "Немецкий национальный муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208170"
+            },
+            "Новичихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208222"
+            },
+            "Павловский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208224"
+            },
+            "Панкрушихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208225"
+            },
+            "Первомайский район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208209"
+            },
+            "Петропавловский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208203"
+            },
+            "Поселок Сибирский (ЗАТО)": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208182"
+            },
+            "Поспелихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208204"
+            },
+            "Ребрихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208205"
+            },
+            "Родинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208206"
+            },
+            "Романовский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208207"
+            },
+            "Рубцовский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208208"
+            },
+            "Смоленский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208214"
+            },
+            "Советский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208216"
+            },
+            "Солонешенский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208230"
+            },
+            "Солтонский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208231"
+            },
+            "Табунский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208229"
+            },
+            "Тальменский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208233"
+            },
+            "Тогульский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208234"
+            },
+            "Топчихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208235"
+            },
+            "Третьяковский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208200"
+            },
+            "Троицкий муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208201"
+            },
+            "Тюменцевский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208202"
+            },
+            "Угловский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208196"
+            },
+            "Усть-Калманский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208197"
+            },
+            "Усть-Пристанский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208198"
+            },
+            "Хабарский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208199"
+            },
+            "Целинный муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208190"
+            },
+            "Чарышский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208191"
+            },
+            "Шелаболихинский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208232"
+            },
+            "Шипуновский муниципальный район": {
+                "url": "https://www.reformagkh.ru/myhouse?tid=2208164"
+            }
+        }
+    },
+    "Амурская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2215422"
+    },
+    "Архангельская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2216073"
+    },
+    "Астраханская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2220005"
+    },
+    "Белгородская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2220463"
+    },
+    "Брянская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2222089"
+    },
+    "Владимирская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2224825"
+    },
+    "Волгоградская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2227349"
+    },
+    "Вологодская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2228920"
+    },
+    "Воронежская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2236864"
+    },
+    "город Москва": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2280999"
+    },
+    "город Санкт-Петербург": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2276347"
+    },
+    "город Севастополь": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2399515"
+    },
+    "Еврейская автономная область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2361205"
+    },
+    "Забайкальский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2333436"
+    },
+    "Ивановская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2243734"
+    },
+    "Иркутская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2246043"
+    },
+    "Кабардино-Балкарская Республика": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2347352"
+    },
+    "Калининградская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2247652"
+    },
+    "Калужская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2258331"
+    },
+    "Камчатский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2261569"
+    },
+    "Карачаево-Черкесская Республика": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2352939"
+    },
+    "Кемеровская область - Кузбасс": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2261688"
+    },
+    "Кировская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2262823"
+    },
+    "Костромская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2267309"
+    },
+    "Краснодарский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2209858"
+    },
+    "Красноярский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2211647"
+    },
+    "Курганская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2272233"
+    },
+    "Курская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2273507"
+    },
+    "Ленинградская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2276351"
+    },
+    "Липецкая область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2279312"
+    },
+    "Магаданская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2280928"
+    },
+    "Московская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2281126"
+    },
+    "Мурманская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2287468"
+    },
+    "Ненецкий автономный округ": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2361342"
+    },
+    "Нижегородская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2238753"
+    },
+    "Новгородская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2287629"
+    },
+    "Новосибирская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2290273"
+    },
+    "Омская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2291899"
+    },
+    "Оренбургская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2293481"
+    },
+    "Орловская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2295251"
+    },
+    "Пензенская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2298217"
+    },
+    "Пермский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2299744"
+    },
+    "Приморский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2213474"
+    },
+    "Псковская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2303372"
+    },
+    "Республика Адыгея": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2340164"
+    },
+    "Республика Алтай": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2347543"
+    },
+    "Республика Башкортостан": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2340399"
+    },
+    "Республика Бурятия": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2345009"
+    },
+    "Республика Дагестан": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2345675"
+    },
+    "Республика Ингушетия": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2247643"
+    },
+    "Республика Калмыкия": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2347799"
+    },
+    "Республика Карелия": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2348078"
+    },
+    "Республика Коми": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2348894"
+    },
+    "Республика Крым": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2399489"
+    },
+    "Республика Марий Эл": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2349746"
+    },
+    "Республика Мордовия": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2351376"
+    },
+    "Республика Саха (Якутия)": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2360536"
+    },
+    "Республика Северная Осетия-Алания": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2352709"
+    },
+    "Республика Татарстан": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2353101"
+    },
+    "Республика Тыва": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2356269"
+    },
+    "Республика Хакасия": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2358459"
+    },
+    "Ростовская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2310204"
+    },
+    "Рязанская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2312245"
+    },
+    "Самарская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2270853"
+    },
+    "Саратовская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2315056"
+    },
+    "Сахалинская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2316924"
+    },
+    "Свердловская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2317157"
+    },
+    "Смоленская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2319070"
+    },
+    "Ставропольский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2214158"
+    },
+    "Тамбовская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2323682"
+    },
+    "Тверская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2248754"
+    },
+    "Томская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2325436"
+    },
+    "Тульская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2326046"
+    },
+    "Тюменская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2329523"
+    },
+    "Удмуртская Республика": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2356486"
+    },
+    "Ульяновская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2331106"
+    },
+    "Хабаровский край": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2214950"
+    },
+    "Ханты-Мансийский автономный округ": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2330826"
+    },
+    "Челябинская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2332121"
+    },
+    "Чеченская Республика": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2358750"
+    },
+    "Чувашская Республика": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2358768"
+    },
+    "Чукотский автономный округ": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2334262"
+    },
+    "Ямало-Ненецкий автономный округ": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2331019"
+    },
+    "Ярославская область": {
+        "url": "https://www.reformagkh.ru/myhouse?tid=2334335"
+    }
+}
